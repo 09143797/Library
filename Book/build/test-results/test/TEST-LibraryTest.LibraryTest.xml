@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest.LibraryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-06-12T07:35:36" hostname="B304-055" time="0.14">
+  <properties/>
+  <testcase name="loanSuccess" classname="LibraryTest.LibraryTest" time="0.138"/>
+  <testcase name="returnBook" classname="LibraryTest.LibraryTest" time="0.0"/>
+  <testcase name="loanFail" classname="LibraryTest.LibraryTest" time="0.001"/>
+  <system-out><![CDATA[***********鍊熶功璁板綍***************
+濮撳悕锛?灏忔槑
+涔﹀悕锛?瑗挎父璁?銆?涓夊浗婕斾箟銆?绾㈡ゼ姊?
+鍊熶功鏃堕棿锛?2017-06-12
+***********鍊熶功璁板綍***************
+濮撳悕锛?灏忔槑
+涔﹀悕锛?瑗挎父璁?銆?涓夊浗婕斾箟銆?绾㈡ゼ姊?
+鍊熶功鏃堕棿锛?2017-06-12
+***********杩樹功璁板綍***************
+濮撳悕锛?灏忔槑
+涔﹀悕锛?瑗挎父璁?
+***********鍊熶功璁板綍***************
+濮撳悕锛?灏忔槑
+涔﹀悕锛?瑗挎父璁?銆?涓夊浗婕斾箟銆?绾㈡ゼ姊?
+鍊熶功鏃堕棿锛?2017-06-12
+鍊熶功澶辫触
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
